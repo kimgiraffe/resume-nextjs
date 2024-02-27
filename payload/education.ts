@@ -5,16 +5,21 @@ const education: IEducation.Payload = {
 
   list: [
     {
-      title: 'University of Open Source',
-      subTitle: 'PhD in System Engineering (Honorary)',
-      startedAt: '1991-03',
-      // endedAt: '2010-02',
+      title: '삼성청년SW 아카데미',
+      subTitle: 'Java 전공',
+      startedAt: '2023-07',
     },
     {
-      title: 'Antarctica High School',
-      subTitle: 'Graduated',
-      startedAt: '1989-03',
-      endedAt: '1991-02',
+      title: '서강대학교',
+      subTitle: '컴퓨터공학',
+      startedAt: '2017-03',
+      endedAt: '2023-08',
+    },
+    {
+      title: '휘문고등학교',
+      subTitle: '서울특별시 강남구',
+      startedAt: '2014-03',
+      endedAt: '2017-02',
     },
   ],
 };
