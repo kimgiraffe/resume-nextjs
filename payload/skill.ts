@@ -17,7 +17,7 @@ const programmingLanguages: ISkill.Skill = {
     },
     {
       title: 'TypeScript',
-      level: 2,
+      level: 3,
     },
     {
       title: 'Dart',
@@ -35,11 +35,11 @@ const frameworks: ISkill.Skill = {
     },
     {
       title: 'React.js',
-      level: 2,
+      level: 3,
     },
     {
       title: 'Next.js',
-      level: 2,
+      level: 3,
     },
     {
       title: 'Spring Boot',
@@ -78,6 +78,9 @@ const tools: ISkill.Skill = {
     },
     {
       title: 'Jira',
+    },
+    {
+      title: 'Figma',
     },
     {
       title: 'Github',

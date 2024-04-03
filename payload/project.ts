@@ -4,6 +4,32 @@ const project: IProject.Payload = {
   disable: false,
   list: [
     {
+      title: 'LYRIC:IT',
+      startedAt: '2024-02',
+      endedAt: '2024-04',
+      where: '삼성청년SW아카데미',
+      descriptions: [
+        {
+          content: 'FE',
+        },
+        {
+          content: '화면 디자인 설계',
+        },
+        {
+          content: '로비 페이지 컴포넌트 개발 및 스토리북 작성',
+        },
+        {
+          content: '대기 방 컴포넌트 개발 및 스토리북 작성',
+        },
+        {
+          content: ' 게임 페이지 컴포넌트 개발 및 스토리북 작성',
+        },
+        {
+          content: '사전 페이지 컴포넌트 개발 및 스토리북 작성',
+        },
+      ],
+    },
+    {
       title: '금쪽이 해방일지',
       startedAt: '2024-01',
       endedAt: '2024-02',
