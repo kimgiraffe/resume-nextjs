@@ -8,6 +8,7 @@ const education: IEducation.Payload = {
       title: '삼성청년SW 아카데미',
       subTitle: 'Java 전공',
       startedAt: '2023-07',
+      endedAt: '2024-06',
     },
     {
       title: '서강대학교',
