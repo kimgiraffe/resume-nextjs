@@ -4,6 +4,35 @@ const project: IProject.Payload = {
   disable: false,
   list: [
     {
+      title: 'HABITZ',
+      startedAt: '2024-04',
+      endedAt: '2024-05',
+      where: '삼성청년SW아카데미',
+      descriptions: [
+        {
+          content: 'FE',
+        },
+        {
+          content: '결제 페이지 구현',
+        },
+        {
+          content: '아이 메인 페이지 구현',
+        },
+        {
+          content: '미션 수행 페이지 구현',
+        },
+        {
+          content: '포인트 내역 페이지 구현',
+        },
+        {
+          content: '퀴즈 페이지 구현',
+        },
+        {
+          content: '구매 내역 페이지 구현',
+        },
+      ],
+    },
+    {
       title: 'LYRIC:IT',
       startedAt: '2024-02',
       endedAt: '2024-04',
