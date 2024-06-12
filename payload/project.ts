@@ -13,7 +13,7 @@ const project: IProject.Payload = {
           content: 'FE',
         },
         {
-          content: '결제 페이지 구현',
+          content: '토스 페이먼츠 API 연동',
         },
         {
           content: '아이 메인 페이지 구현',
