@@ -11,7 +11,7 @@ const introduce: IIntroduce.Payload = {
   sign: 'semin',
   // sign: packageJson.author.name,
   // latestUpdated: '2019-07-24',
-  latestUpdated: '2024-05-24',
+  latestUpdated: '2024-07-04',
 };
 
 export default introduce;
